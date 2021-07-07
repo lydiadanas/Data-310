@@ -1,14 +1,14 @@
 
-#Data 310 index
+Data 310 index
 
-###Informal responses
+Informal responses
 
 - week 1: 
 - week 2:
 - week 3:
 - week 4:
 
-###Projects
+Projects
 
 - week 1:
 - week 2:
