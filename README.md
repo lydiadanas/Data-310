@@ -5,29 +5,35 @@ Informal responses
 
 - week 1: 
   
-    [Tuseday](https://lydiadanas.github.io/Data-310/tuseday1.html)
+    [Tuesday](https://lydiadanas.github.io/Data-310/tuesday1.html)
   
     [Wednesday]()
   
     [Thursday](https://gwen013.github.io/data310/writeup01.html)
   
+
 - week 2:
   
     Monday
   
-    Tuseday
+    Tuesday
   
     Wednesday
   
     Thursday
   
+
 - week 3:
   
     Monday
-    Tuseday
+  
+    Tuesday
+  
     Wednesday
+  
     Thursday
   
+
 - week 4:
 
 Projects
