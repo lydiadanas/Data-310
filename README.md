@@ -5,7 +5,7 @@ Informal responses
 
 - week 1: 
   
-    [Tuseday]()
+    [Tuseday](https://lydiadanas.github.io/Data-310/week-1/tuseday.html)
   
     [Wednesday]()
   
