@@ -7,7 +7,7 @@ Informal responses
   
     [Tuesday](TuesdayWeek1.md)
   
-    [Wednesday]()
+    [Wednesday](WednesdayWeek1.md)
   
     [Thursday](https://gwen013.github.io/data310/writeup01.html)
   

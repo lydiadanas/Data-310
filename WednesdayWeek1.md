@@ -1,8 +1,8 @@
 #Preprocessing
 1. Pick 3 images:
-    1.![img.png](img.png)
-    2.![img_1.png](img_1.png)
-    3.![img_2.png](img_2.png)
+    1.![img.png](docs/img.png)
+    2.![img_1.png](docs/img_1.png)
+    3.![img_2.png](docs/img_2.png)
 #Make Predictions
 1. What does the array represent?
    
@@ -17,7 +17,8 @@
 2. How were softmax and argmax applied?
     1.
 3. Does the np.argmax output match the label from test_labels?
-    1.
+
+    Yes: both were 4.
 #Verify predictions
 1. Plot 2 more images and include graph of predicted label in addition to image
     1.
