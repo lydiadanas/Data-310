@@ -31,7 +31,7 @@
 
 3. Does the np.argmax output match the label from test_labels?
 
-    Yes: both were 4.
+    Yes: both were 4
 
 
 #Verify predictions
