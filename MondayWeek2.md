@@ -19,7 +19,6 @@ DNN's error vs epoch: ![img_6.png](img_6.png)
    
 5. Best model produced:
     
-    The best model produced was the one above, and the reason why it was the best was because
-   it significantly lowered the mean absolute error for the linear model. Before adding the 
-   fuel-system variable, the linear model's error was around 52. After adding that variable, it decreased to 2.24.
+    The best model produced was one with city-mpg, engine-type, and normalized loss, and the reason why it was the best was because
+   it significantly lowered the mean absolute error for the linear model down to around 1. 
    The DNN error stayed low at 1.85.
