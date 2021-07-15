@@ -28,8 +28,16 @@
 3. Overfit
 
     - What is an overfit model?
+      
+      An overfit model is a model with higher capacity than the dataset.
     - Why is it important to address it?
+      
+      Overfit models will not be able to generalize their predictions accurately.
     - What are four ways we have addressed it so far?
+      1. Decreasing the size/complexity of the model in general (not by weights)
+      2. L2 regularization 
+      3. Dropout
+      4. Combined L2 and dropout
     
 
 4. Load and preprocess images
