@@ -16,7 +16,7 @@ Informal responses
   
     [Monday](MondayWeek2.md)
   
-    Tuesday
+    [Tuesday](TusedayWeek2.md)
   
     Wednesday
   
