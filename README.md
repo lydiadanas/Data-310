@@ -18,9 +18,9 @@ Informal responses
   
     [Tuesday](TusedayWeek2.md)
   
-    Wednesday
+    [Thursday](ThursdayWeek2.md)
   
-    Thursday
+    Friday
   
 
 - week 3:

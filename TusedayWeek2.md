@@ -1,17 +1,28 @@
 1. Describe the dataset
 
-    - Type of variable (target): 
-    - How many features are being used:
-    - How many observations are in the training dataset:
-    - How many are used in the validation set:
+    - Type of variable (target): binary
+    - How many features are being used: 28
+    - How many observations are in the training dataset: 10,000
+    - How many are used in the validation set: 1,000
     
 
 2. Performance
 
     - How did each of the models perform?
+      
+      The tiny and small models performed the best, but the medium and large models did not perform well at all.
+   
     - Which of the four performed the best?
+   
+      The tiny model performed the best.
     - Which ones performed the worst?
+      
+      The medium and large models performed the worst.
     - Why did some perform better?
+      
+      The ones that perfomed better were not overfit like the medium and large models were;
+      while the dataset itself is large, there are only 28 features and the larger network sizes 
+      that lead to overfitting were all over 28 units and the smaller ones were all under 28 units, so that could have something to do with it.
     
 
 3. Overfit
