@@ -7,7 +7,7 @@
     
 
 2. Performance
-
+![img_8.png](img_8.png)
     - How did each of the models perform?
       
       The tiny and small models performed the best, but the medium and large models did not perform well at all.
@@ -18,6 +18,7 @@
     - Which ones performed the worst?
       
       The medium and large models performed the worst.
+![img_9.png](img_9.png)
     - Why did some perform better?
       
       The ones that perfomed better were not overfit like the medium and large models were;
