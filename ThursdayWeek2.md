@@ -24,13 +24,19 @@
    
     a. Did your model performance improve?
    
+      No, in fact for both datasets my model's performance greatly decreased.
+   
     b. How many epochs were you able to run and how much time did it take?
    
-      I was able to run 10 epochs, which only took about 2 minutes - the length of one epoch before augmentation.
+      I was able to run 10 epochs for the beans dataset, which only took about 2 minutes - the length of one epoch before augmentation.
+      However, the eurosat dataset took 6 minutes for each epoch, so I ended up only doing 3.
    
     c. Results
       ![img_22.png](img_22.png)
       ![img_24.png](img_24.png)
+      ![img_27.png](img_27.png)
+      
     d. Accuracy
       ![img_23.png](img_23.png)
       ![img_25.png](img_25.png)
+      ![img_28.png](img_28.png)
