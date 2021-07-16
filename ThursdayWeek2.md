@@ -12,7 +12,7 @@
       
    2. accuracy
 
-2. Image augementation
+2. Image augmentation
    
     a. Did your model performance improve?
    
