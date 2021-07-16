@@ -60,11 +60,22 @@ Filtered Images:
      In other words, it can help a DNN model recognize certain aspects of a picture as unique to 
      an object, therefore letting it classify across a variety of picture formats.
       
-
+4b. Pooling
+![img_14.png](img_14.png)
    - In effect what have you accomplished by applying this filter?
+     
+      By applying this filter, I have lowered the size of the image from 500x500 pixels
+     to 250x250 pixels.
    - Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
+     
+     Yes, when pooling the filter keeps the largest value of the pixels surrounding it.
    - Did the resulting image increase in size or decrease?
+     
+     The image decreased in size.
    - Why would this method be useful?
+     
+        By reducing the size of the image while keeping features, the information represented in the image is much smaller
+     and therefore much easier for a model to learn from. I would assume it decreases the chance of overfitting because of this.
    
 
 5. Matrix:
