@@ -25,7 +25,10 @@
     a. Did your model performance improve?
    
     b. How many epochs were you able to run and how much time did it take?
-    
-    c. Results
    
+      I was able to run 10 epochs, which only took about 2 minutes - the length of one epoch before augmentation.
+   
+    c. Results
+      ![img_22.png](img_22.png)
+      ![img_23.png](img_23.png)
     d. Accuracy
