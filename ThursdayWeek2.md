@@ -3,13 +3,15 @@
     a. beans dataset
    
    1. results
-      
+      ![img_15.png](img_15.png)
+      ![img_18.png](img_18.png)
    2. accuracy
    
    b. eurosat dataset
    
    1. results
-      
+      ![img_16.png](img_16.png)
+      ![img_19.png](img_19.png)
    2. accuracy
 
 2. Image augmentation
