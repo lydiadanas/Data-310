@@ -43,8 +43,23 @@
 
 4. Load and preprocess images
 
-    - What are you functionally accomplishing as you apply the filter to your original array?
-    - Why is the application of a convolving filter to an image useful for computer vision?
+Original Image:
+![img_13.png](img_13.png)
+
+Filtered Images:
+![img_11.png](img_11.png)
+![img_10.png](img_10.png)
+![img_12.png](img_12.png)
+   - What are you functionally accomplishing as you apply the filter to your original array?
+      
+      Functionally I am extracting and showing common features from/in an image.
+
+   - Why is the application of a convolving filter to an image useful for computer vision?
+     
+      It can help a computer identify common aspects to something like a piece of clothing.
+     In other words, it can help a DNN model recognize certain aspects of a picture as unique to 
+     an object, therefore letting it classify across a variety of picture formats.
+      
 
    - In effect what have you accomplished by applying this filter?
    - Does there seem to be a logic (i.e. maximizing, averaging or minimizing values?) associated with the pooling filter provided in the example exercise (convolutions & pooling)?
