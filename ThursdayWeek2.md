@@ -35,8 +35,9 @@
       ![img_22.png](img_22.png)
       ![img_24.png](img_24.png)
       ![img_27.png](img_27.png)
-      
+      ![img_29.png](img_29.png)
     d. Accuracy
       ![img_23.png](img_23.png)
       ![img_25.png](img_25.png)
       ![img_28.png](img_28.png)
+      ![img_30.png](img_30.png)
