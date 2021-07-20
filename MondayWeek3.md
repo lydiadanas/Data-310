@@ -13,7 +13,12 @@ Iris:
    
     c. What is occurring at each step and why is it necessary to execute before fitting your model. 
 
-3. Train each model and produce the output (not necessary to validate or test). 
+3. Train each model and produce the output (not necessary to validate or test).
+   
+Metro:
+![img_34.png](img_34.png)
+Iris:
+![img_33.png](img_33.png)
 4. Describe the model output from both the metro traffic interstate dataset and the iris flowers dataset.
    
     a. What is the target for each dataset?
