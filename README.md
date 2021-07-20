@@ -20,8 +20,6 @@ Informal responses
   
     [Thursday](ThursdayWeek2.md)
   
-    Friday
-  
 
 - week 3:
   
