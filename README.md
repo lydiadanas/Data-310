@@ -23,7 +23,7 @@ Informal responses
 
 - week 3:
   
-    Monday
+    [Monday](MondayWeek3.md)
   
     Tuesday
   
