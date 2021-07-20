@@ -1,4 +1,4 @@
-1. Plot describing input preprocessing step:
+1. Plots describing input preprocessing step:
 
 Metro:
    ![img_31.png](img_31.png)
