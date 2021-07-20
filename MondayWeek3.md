@@ -1,5 +1,9 @@
 1. Plot describing input preprocessing step:
 
+Metro:
+   ![img_31.png](img_31.png)
+Iris:
+
 2. Describe the plot of each model for the two dataset preprocessing steps. 
    
     a. What does each box in the illustration represent? 
