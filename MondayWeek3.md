@@ -3,6 +3,7 @@
 Metro:
    ![img_31.png](img_31.png)
 Iris:
+   ![img_32.png](img_32.png)
 
 2. Describe the plot of each model for the two dataset preprocessing steps. 
    
