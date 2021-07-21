@@ -32,8 +32,10 @@ Iris:
    
     a. What is the target for each dataset?
    
-    b. How would you assess the accuracy of each model? 
+   The target for the metro dataset is traffic volume, and the target for the iris dataset is a number between 1-4 which indicates the flower type.
    
+    b. How would you assess the accuracy of each model? 
+      
     c. Are you using a different metric for each one? 
    
     d. Why is this so? 
