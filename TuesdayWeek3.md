@@ -21,3 +21,6 @@ Next we applied SGD to the entire dataset. Below is a plot of our loss per epoch
 
 To evaluate our model, we fed our model a testing dataset of data it hadn’t seen before and asked it to predict what flower each was. So that it doesn’t learn this dataset, we only let it run for one epoch and then assess the model by its accuracy on the training dataset.
 
+To predict what labels should match which feature values, we passed a training dataset into our model and iterated through each prediction, finding the highest probability and then corresponding that probability to the correct class name.
+
+
