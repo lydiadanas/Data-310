@@ -36,9 +36,10 @@ Iris:
    
     b. How would you assess the accuracy of each model? 
       
-    c. Are you using a different metric for each one? 
+      I assessed the accuracy of the metro dataset through loss over epochs, and there was a lot of loss. The loss was in the thousands, and because of that I thought a graph wouldn't be useful since there's an absurd amount of loss, showing the model is not very accurate.
+      I assessed the accuracy of the iris dataset also through loss over epochs. It did slightly better than the metro dataset, probably because it has less features. However, my loss values were negative and I'm not exactly sure why or what that means.
    
-    d. Why is this so? 
+    c. Are you using a different metric for each one? Why is this so?
    
-    e. What is each one measuring?
+      Yes, because the metro dataset has mixed data types, and the iris dataset does not.
    
