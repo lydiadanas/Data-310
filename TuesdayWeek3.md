@@ -8,4 +8,5 @@ Before creating our model, we altered the shape of our dataset and as such the i
 With this done, we could move onto the model itself.
 
 First, we chose the tf.keras.Sequential constructor for our model so we could stack our layers linearly.
+Next, we made our layers: two dense layers with 10 nodes and dense layer with 3 nodes. 
 
