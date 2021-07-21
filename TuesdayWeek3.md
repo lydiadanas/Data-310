@@ -15,3 +15,6 @@ In our first two layers we also defined the activation function. This function c
 Next, we trained our model. Training is when a model learns correlations between feature and target through routinely predicting feature – target matches and being penalized for wrong answers. This is done through loss, which is a metric of how incorrect the model’s prediction was. We used the SparseCategoricalCrossentropy loss function for our model, which calculates the loss by compares the model’s prediction to the label. It does this for many examples and then returns the average loss. Since the Iris dataset has multiple classes, this was the function we had to use.
 
 We optimized our model by using stochastic gradient descent. Stochastic gradient descent minimizes loss by altering parameters until it finds parameters that result in the lowest loss. First we created a function that uses tf.GradientTape to calculate gradient descents. Then we set up the optimizer and used optimizer.apply_gradients to apply gradients.
+
+Next we applied SGD to the entire dataset. Below is a plot of our loss per epoch that illustrates the change in loss over each epoch due to the SGD we used. 
+![img_35.png](img_35.png)
