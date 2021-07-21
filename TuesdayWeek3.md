@@ -7,4 +7,5 @@ This function then shuffled/parsed through the data and reorganized it into a tf
 Before creating our model, we altered the shape of our dataset and as such the input shape of our model. Our input shape was formatted as (batch size, number of features), and actually was (5, 4). We achieved this by using tf.stack and tf.data.Dataset.map.
 With this done, we could move onto the model itself.
 
+First, we chose the tf.keras.Sequential constructor for our model so we could stack our layers linearly.
 
