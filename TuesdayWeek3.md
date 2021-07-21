@@ -23,4 +23,11 @@ To evaluate our model, we fed our model a testing dataset of data it hadn’t se
 
 To predict what labels should match which feature values, we passed a training dataset into our model and iterated through each prediction, finding the highest probability and then corresponding that probability to the correct class name.
 
+Three new predictions:
+
+    [5.5, 4.2, 1.4, 0.2]   Iris setosa, 99.6%
+    [4.3, 3.0, 1.1, 0.1]   Iris setosa, 98.4%
+    [5.6, 2.8, 4.9, 2.0]    Iris virginica, 97.4%
+    
+It is correct.
 
