@@ -45,6 +45,12 @@ Informal responses
 Projects
 
 - [week 1](Project1.md)
+  
+
 - week 3:
+  
+
 - week 4:
+  
+
 - final project:
