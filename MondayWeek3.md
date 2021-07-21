@@ -16,11 +16,11 @@ Iris:
       For metro, yes: the first four variables take a different path including normalization, while the last four variables do not go through this step. This is because the first four variables are continuous.
       In the Iris dataset every variable is continuous, so they all take the same path.
    
-    c. What is occurring at each step and why is it necessary to execute before fitting your model. 
+    c. What is occurring at each step and why is it necessary to execute before fitting your model?
    
       At the first step, numerical data are concatenated and then normalized in the second step.
       Categorical data is converted to numerical data in the first and second steps, and then in the third step the numerical and categorical data are concatenated.
-   
+      This is necessary before fitting the model because all the data used must be in a similar range and in the same format.
 
 3. Train each model and produce the output (not necessary to validate or test).
    
