@@ -18,3 +18,6 @@ We optimized our model by using stochastic gradient descent. Stochastic gradient
 
 Next we applied SGD to the entire dataset. Below is a plot of our loss per epoch that illustrates the change in loss over each epoch due to the SGD we used. 
 ![img_35.png](img_35.png)
+
+To evaluate our model, we fed our model a testing dataset of data it hadn’t seen before and asked it to predict what flower each was. So that it doesn’t learn this dataset, we only let it run for one epoch and then assess the model by its accuracy on the training dataset.
+
