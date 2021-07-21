@@ -12,5 +12,6 @@ Next, we made our layers: two dense layers with 10 nodes and dense layer with 3 
 In our first dense layer we defined our input shape.
 In our first two layers we also defined the activation function. This function controls the output shape of each layer. We used RELU activation.  
 
-Next, we trained our model. Training is when a model learns correlations between feature and target through routinely predicting feature – target matches and being penalized for wrong answers. This is done through loss, which is a metric of how incorrect the model’s prediction was. We used the SparseCategoricalCrossentropy loss function for our model, which calculates the loss by compares the model’s prediction to the label. It does this for many examples and then returns the average loss, which we can use.
+Next, we trained our model. Training is when a model learns correlations between feature and target through routinely predicting feature – target matches and being penalized for wrong answers. This is done through loss, which is a metric of how incorrect the model’s prediction was. We used the SparseCategoricalCrossentropy loss function for our model, which calculates the loss by compares the model’s prediction to the label. It does this for many examples and then returns the average loss. Since the Iris dataset has multiple classes, this was the function we had to use.
+
 
