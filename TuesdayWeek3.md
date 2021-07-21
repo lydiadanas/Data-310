@@ -10,4 +10,6 @@ With this done, we could move onto the model itself.
 First, we chose the tf.keras.Sequential constructor for our model so we could stack our layers linearly.
 Next, we made our layers: two dense layers with 10 nodes and dense layer with 3 nodes. Our last layer, the output layer, has 3 nodes because that is the amount of classes in our dataset.
 In our first dense layer we defined our input shape.
+In our first two layers we also defined the activation function. This function controls the output shape of each layer. We used RELU activation.  
+
 
