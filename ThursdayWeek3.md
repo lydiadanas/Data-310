@@ -1,3 +1,4 @@
 The first model I tried without crossing columns was very accurate (0.958) for a wealth of 5, but became progressively less accurate (0.700 at the lowest) the lower the wealth was.
 In the plot below, it is blue.
 
+I couldn't figure out how to cross columns using 
