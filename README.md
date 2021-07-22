@@ -29,7 +29,7 @@ Informal responses
   
     Wednesday
   
-    Thursday
+    [Thursday](ThursdayWeek3.md)
   
 
 - week 4:
