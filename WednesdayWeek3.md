@@ -1,0 +1,1 @@
+Unfortunately I was having issues with my model.fit call on Wednesday night, so I was unable to work with Michael and Dylan. Once I got it working on Friday afternoon, I tried to make a better model than they did but found their buckets and structure resulted in the highest accuracies overall.
