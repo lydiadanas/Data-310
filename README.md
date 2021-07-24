@@ -27,7 +27,7 @@ Informal responses
   
     [Tuesday](TuesdayWeek3.md)
   
-    Wednesday
+    [Wednesday](WednesdayWeek3.md)
   
     [Thursday](ThursdayWeek3.md)
   
