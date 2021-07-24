@@ -2,7 +2,6 @@ Unfortunately I was having issues with my model.fit call on Wednesday night, so 
 
 I made the plot below comparing my intial accuracy and the accuracy with Michael and Dylan's model:
 
-![img_44.png](img_44.png)
 
 My first model:
 
