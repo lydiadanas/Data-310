@@ -1,5 +1,7 @@
 1. Predicting wealth vs all other classes as binary target
-   
+
+First model:
+![img_47.png](img_47.png)
     - Best model:
     - Worst model:
     
