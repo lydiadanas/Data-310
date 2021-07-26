@@ -1,7 +1,15 @@
 1. Predicting wealth vs all other classes as binary target
 
 First model:
-![img_47.png](img_47.png)
+![img_48.png](img_48.png)
+Age buckets = 9, 18, 72
+
+Second model:
+age buckets = 25, 50, 75
+   found by np.percentile on the dataset's age column
+size buckets = 5, 6, 9
+   found by same way as above
+
     - Best model:
     - Worst model:
     
