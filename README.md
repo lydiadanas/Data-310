@@ -47,7 +47,7 @@ Projects
 - [week 1](Project1.md)
   
 
-- week 3:
+- [week 3](Project2.md)
   
 
 - week 4:
