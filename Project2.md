@@ -29,6 +29,10 @@ Second model:
 3. Predicting wealth vs all other classes as categorical
 
     - Analyze and discuss results with confusion matrix as reference
+         ![img_61.png](img_61.png)
+         The model had an accuracy of 0.553. It looks like it correctly identified most of the first wealth bracket, but past that, the model quickly became less accurate. This was using my best model from the first section.
+      
     - Modify feature columns in attempt to improve accuracy with all 5 categorical wealth classes as target. Analyze and discuss progress and results.
+         
     
     
