@@ -13,7 +13,11 @@
     
 2. Confusion matrix
 
-    - Analyze and discuss two sets of results
+![img_55.png](img_55.png)
+   
+![img_56.png](img_56.png)
+
+   - Analyze and discuss two sets of results
     
 3. Predicting wealth vs all other classes as categorical
 
