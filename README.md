@@ -34,10 +34,6 @@ Informal responses
 
 - week 4:
   
-    Monday
-  
-    Tuesday
-  
     Wednesday
   
     Thursday
