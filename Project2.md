@@ -18,11 +18,14 @@ First model:
 ![img_58.png](img_58.png)
 
 Second model:
-![img_55.png](img_55.png)
-![img_56.png](img_56.png)
+![img_59.png](img_59.png)
+![img_60.png](img_60.png)
 
    - Analyze and discuss two sets of results
+     
       As you can see, there is very little difference between the two models and their accuracy.
+      The first model acheived an accuracy of 0.9621, and the second model had an accuracy of 0.9622. It looks like the removal of the car column increased the amount of true negatives and decreased the amount of false negatives.
+     
 3. Predicting wealth vs all other classes as categorical
 
     - Analyze and discuss results with confusion matrix as reference
