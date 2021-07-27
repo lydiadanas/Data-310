@@ -29,10 +29,22 @@ Second model:
 3. Predicting wealth vs all other classes as categorical
 
     - Analyze and discuss results with confusion matrix as reference
-         ![img_61.png](img_61.png)
-         The model had an accuracy of 0.553. It looks like it correctly identified most of the first wealth bracket, but past that, the model quickly became less accurate. This was using my best model from the first section.
+        
+        3 epochs:
+        ![img_63.png](img_63.png)
+        10 epochs:
+        ![img_62.png](img_62.png)
+      The model had an accuracy of 0.553 with 3 epochs and 0.573 with 10. It looks like weighted the first wealth bracket too heavily, and as a result past that bracket, the model quickly became less accurate. This was using my best model from the first section.
       
     - Modify feature columns in attempt to improve accuracy with all 5 categorical wealth classes as target. Analyze and discuss progress and results.
-         
+         # put car back in, 0.547
+         # removed weights, 0.552
+         # unbucketed size, 0.542
+        # age edu cross, 0.549
+        # weights location cross, 0.552
+        # toilet potable cross, 0.538
+        # drop electric and car, 0.547
+        # kept electric in but not as a feature column, 0.569
+        
     
     
