@@ -13,12 +13,16 @@
     
 2. Confusion matrix
 
-![img_55.png](img_55.png)
+First model:
+![img_57.png](img_57.png)
+![img_58.png](img_58.png)
 
+Second model:
+![img_55.png](img_55.png)
 ![img_56.png](img_56.png)
 
    - Analyze and discuss two sets of results
-    
+      As you can see, there is very little difference between the two models and their accuracy.
 3. Predicting wealth vs all other classes as categorical
 
     - Analyze and discuss results with confusion matrix as reference
