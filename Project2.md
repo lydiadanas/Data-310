@@ -37,14 +37,25 @@ Second model:
       The model had an accuracy of 0.553 with 3 epochs and 0.573 with 10. It looks like weighted the first wealth bracket too heavily, and as a result past that bracket, the model quickly became less accurate. This was using my best model from the first section.
       
     - Modify feature columns in attempt to improve accuracy with all 5 categorical wealth classes as target. Analyze and discuss progress and results.
-         # put car back in, 0.547
-         # removed weights, 0.552
-         # unbucketed size, 0.542
-        # age edu cross, 0.549
-        # weights location cross, 0.552
-        # toilet potable cross, 0.538
-        # drop electric and car, 0.547
-        # kept electric in but not as a feature column, 0.569
+         
+        Here is a list of the modifications I made, all run with 3 epochs except for the last modification, and their resulting accuracy, none of which were better than my first model:
+            
+        - Put the car column back in the model, 0.547
+            
+        - Removed the weights column, 0.552
+            
+        - Unbucketed size, 0.542
+            
+        - Crossed the age and education columns, 0.549
+            
+        - Crossed the weights and location columns, 0.552
+            
+        - Crossed the toilet and potable columns, 0.538
+            
+        - Dropped the electric and car columns, 0.547
+            
+        - Kept the electric column in but not as a feature column (10 epochs), 0.569
+
         
     
     
