@@ -14,7 +14,7 @@
 2. Confusion matrix
 
 ![img_55.png](img_55.png)
-   
+
 ![img_56.png](img_56.png)
 
    - Analyze and discuss two sets of results
