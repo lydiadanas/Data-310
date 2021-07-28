@@ -17,7 +17,9 @@ So I started with two images:
 ![img_68.png](img_68.png)
 ![img_67.png](img_67.png)
 
-Here's the result of my first model:
+Here's the result of my model:
 ![img_69.png](img_69.png)
 this is out of my worst nightmares. 
 customer review: wm'24 unnamed individual: "who thanos snapped this"
+
+I think the open eyes aren't showing up because I had to edit them into the downloaded picture.
