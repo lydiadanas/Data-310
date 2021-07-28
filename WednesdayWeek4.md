@@ -16,3 +16,6 @@ and so on.
 So I started with two images:
 ![img_68.png](img_68.png)
 ![img_67.png](img_67.png)
+
+Here's the result of my first model:
+![img_69.png](img_69.png)
