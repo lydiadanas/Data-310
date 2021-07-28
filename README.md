@@ -38,7 +38,7 @@ Informal responses
   
     Thursday
 
-    Extra Credit
+    [Extra Credit](ExtraCred.md)
 
 Projects
 
