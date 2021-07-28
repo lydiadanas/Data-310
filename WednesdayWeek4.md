@@ -19,3 +19,5 @@ So I started with two images:
 
 Here's the result of my first model:
 ![img_69.png](img_69.png)
+this is out of my worst nightmares. 
+customer review: wm'24 unnamed individual: "who thanos snapped this"
