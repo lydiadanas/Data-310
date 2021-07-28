@@ -23,3 +23,8 @@ this is out of my worst nightmares.
 customer review: wm'24 unnamed individual: "who thanos snapped this"
 
 I think the open eyes aren't showing up because I had to edit them into the downloaded picture.
+
+I pretend I do not see it. but in reality
+
+    i 
+        do
