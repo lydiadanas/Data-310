@@ -1,4 +1,10 @@
-My inspiration is my favorite meme:
+
+
+
+
+The following secton didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
+
+The first thing I did used my favorite meme as an inspiration:
 
 ![img_64.png](img_64.png)
 
