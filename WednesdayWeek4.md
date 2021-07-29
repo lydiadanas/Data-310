@@ -2,7 +2,7 @@
 
 
 
-The following secton didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
+The following section didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
 
 The first thing I did used my favorite meme as an inspiration:
 
