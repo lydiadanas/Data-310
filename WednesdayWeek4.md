@@ -11,10 +11,10 @@ The first thing I did used my favorite meme as an inspiration:
 This always makes me laugh, it's like stonks but lower quality. It also applies to many things.
 For example,
 
-# Me when Professor Frazier uploads the project instructions:
+Me when Professor Frazier uploads the project instructions:
 ![img_65.png](img_65.png)
 
-# Me checking my ethics draft grade:
+Me checking my ethics draft grade:
 ![img_66.png](img_66.png)
 
 and so on.
