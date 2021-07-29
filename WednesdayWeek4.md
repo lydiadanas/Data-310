@@ -28,7 +28,7 @@ Here's the result of my model:
 this is out of my worst nightmares. 
 customer review: wm'24 unnamed individual: "who thanos snapped this"
 
-I think the open eyes aren't showing up because I had to edit them into the downloaded picture.
+I think the open eyes aren't showing up because I had to edit them into the downloaded picture, which meant the url for both photos is the same.
 
 I pretend I do not see it. but in reality
 
