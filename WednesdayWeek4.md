@@ -1,8 +1,19 @@
+1. Describe your implementation of neural style transfer to your content and style images.
+How did the application of the four steps from above produce your resulting work of art? 
 
+    a. Define content and style representations
+   
+    b. Extracting style and content
+   
+    c. Implementing the style transfer algorithm
+   
+    d. Apply regularization term on the high frequency components
 
+2. Comment on what your work means in terms of your development as a data scientist at William & Mary with forethought to the future (please feel free to take as much artistic license as you wish when answering this last question).
 
+3. Deep Dream script results
 
-The following section didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
+4. The following section didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
 
 The first thing I did used my favorite meme as an inspiration:
 
