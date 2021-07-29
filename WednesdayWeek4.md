@@ -2,6 +2,9 @@
 How did the application of the four steps from above produce your resulting work of art? 
 
     a. Define content and style representations
+            
+   Defining these lets us have some control over the output of the model based on which intermediate layers we choose to match the representations to, but mostly the control comes from 
+    being able to define them in intermediate layers instead of in the first layers or last layers, which respectively contain too little and too much detail on the images' features.
    
     b. Extracting style and content
    
