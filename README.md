@@ -36,7 +36,7 @@ Informal responses
   
     [Wednesday](WednesdayWeek4.md)
   
-    Thursday
+    [Thursday](ThursdayWeek4.md)
 
     [Extra Credit](ExtraCred.md)
 
