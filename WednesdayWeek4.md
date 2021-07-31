@@ -1,20 +1,11 @@
 1. Describe your implementation of neural style transfer to your content and style images.
 How did the application of the four steps from above produce your resulting work of art? 
-
-    a. Define content and style representations
-            
+       
    Defining these lets us have some control over the output of the model based on which intermediate layers we choose to match the representations to, but mostly the control comes from 
     being able to define them in intermediate layers instead of in the first layers or last layers, which respectively contain too little and too much detail on the images' features.
    In other words, intermediate layers let us stylize an image to an ok amount.
-   
-    b. Extracting style and content
-   
    Through extracting the style and the content as tensors, we can optimize the image we are stylizing by using our stylizing algorithm and running a gradient descent.
-   
-    c. Implementing the style transfer algorithm
-   
-    d. Apply regularization term on the high frequency components
-
+   Because our implementation creates more high frequency components, regularizing the image decreases the amount of high frequency components in the stylized image.
 2. Comment on what your work means in terms of your development as a data scientist at William & Mary with forethought to the future (please feel free to take as much artistic license as you wish when answering this last question).
    
    This summer, I was afraid that I wouldn't be able to get outside much because of these classes. That was not true, I've gone outside a lot! 
