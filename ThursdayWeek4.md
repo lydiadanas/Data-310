@@ -1,5 +1,69 @@
 1. Generated text:
    
+   ROMEO:
+   
+   Tybalt, hasty and all my lands,
+   
+   I am his word 'brothecy, take up my books,
+   
+   He loved his brother's pains: she bring his state
+   
+   He had a baby fair lime and down.
+   
+   QUEEN:
+   
+   And 'twas to jest.
+
+   GLOUCESTER:
+   
+   Your grace seal'd me to-day; for thou hast broke
+   
+   To be proud wind that blows you hopest.
+   
+   KING HENRY VI:
+   
+   And far I brother, did my stay with sills,
+   
+   And bown before him to the Tower,
+   
+   My friends ado, with splander of my state,
+   
+   And presently as we may grate lunar.
+   
+   Alas, I fay, it will not slept; and see who shakels,
+   
+   But in the lessen chose ignorance
+   
+   To fair for what my sister learns.
+   
+   DUKE OF YORK:
+   
+   I'll not believe it; I'ld not live like givence:
+   
+   My pares after 'tis enough to proud, Juliet.
+   
+   PRINCE EDWARD:
+   
+   Richard you have been tongued. How now! what news?
+   
+   BUCKINGHAM:
+   
+   Well, sir, nor form and grandsire strong on't.
+   
+   DUKE VINCENTIO:
+   
+   There let me lie in circu.
+   
+   ANTONIO:
+   
+   Of stronger of men, no beyond;
+   
+   Then whet me dissentious rumedless death,
+   
+   But what to shame us wretch,
+   
+   Do whist not half; which
+
 
 2. How it was produced:
    
