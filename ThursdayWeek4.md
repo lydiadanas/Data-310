@@ -12,4 +12,9 @@
    
     b. Building and training the model
         
+    To build the model, we created a model subclass with one embedding layer, a gated recurrent unit layer, and a dense output layer.
+    Before training, we set the loss function to SparseCategoricalCrossentropy, set the optimizer to adam, and compiled the model.
+    Then we made sure to save training checkpoints, and ran the model.
+    
     c. Generating text
+   
