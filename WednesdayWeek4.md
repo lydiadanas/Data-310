@@ -25,7 +25,11 @@ How did the application of the four steps from above produce your resulting work
    This is the stylized image:
    ![img_72.png](img_72.png)
 3. Deep Dream script results
-
+   
+   Without tiles:
+   ![img_73.png](img_73.png)
+   With tiles:
+   ![img_74.png](img_74.png)
 4. The following section didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
 
 The first thing I did used my favorite meme as an inspiration:
