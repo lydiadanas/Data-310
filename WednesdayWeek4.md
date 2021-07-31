@@ -5,8 +5,11 @@ How did the application of the four steps from above produce your resulting work
             
    Defining these lets us have some control over the output of the model based on which intermediate layers we choose to match the representations to, but mostly the control comes from 
     being able to define them in intermediate layers instead of in the first layers or last layers, which respectively contain too little and too much detail on the images' features.
+   In other words, intermediate layers let us stylize an image to an ok amount.
    
     b. Extracting style and content
+   
+   Through extracting the style and the content as tensors, we can optimize the image we are stylizing by using our stylizing algorithm and running a gradient descent.
    
     c. Implementing the style transfer algorithm
    
