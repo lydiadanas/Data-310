@@ -16,7 +16,13 @@ How did the application of the four steps from above produce your resulting work
     d. Apply regularization term on the high frequency components
 
 2. Comment on what your work means in terms of your development as a data scientist at William & Mary with forethought to the future (please feel free to take as much artistic license as you wish when answering this last question).
-
+   This summer, I was afraid that I wouldn't be able to get outside much because of these classes. That was not true, I've gone outside a lot! 
+   So I chose these two images:
+   ![img_70.png](img_70.png)
+   ![img_71.png](img_71.png)
+   The second image is connections in a network, which I thought fit nicely into the neural style transfer we used to make the final image.
+   This is the stylized image:
+   ![img_72.png](img_72.png)
 3. Deep Dream script results
 
 4. The following section didn't work as well as I thought it would, so I redid the excercise (above is my actual answer) but I wanted to keep this in because the result is so cursed.
