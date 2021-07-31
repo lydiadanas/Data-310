@@ -18,3 +18,4 @@
     
     c. Generating text
    
+   To generate text, we defined a one step model class that we could run in a loop.
