@@ -16,6 +16,7 @@ How did the application of the four steps from above produce your resulting work
     d. Apply regularization term on the high frequency components
 
 2. Comment on what your work means in terms of your development as a data scientist at William & Mary with forethought to the future (please feel free to take as much artistic license as you wish when answering this last question).
+   
    This summer, I was afraid that I wouldn't be able to get outside much because of these classes. That was not true, I've gone outside a lot! 
    So I chose these two images:
    ![img_70.png](img_70.png)
