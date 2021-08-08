@@ -51,4 +51,4 @@ Projects
 - [week 4](https://eanelson01.github.io/DATA310/mod4/project4.html)
   
 
-- final project:
+- [final project](final.md)
